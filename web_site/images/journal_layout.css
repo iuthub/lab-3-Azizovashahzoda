@@ -1,11 +1,10 @@
-
-
-
+body {background-image:url('https://courses.cs.washington.edu/courses/cse190m/09sp/labs/2-journal/solution/images/background.gif');}
 body {
-	background-image: url("background.gif"); 
+	
 	margin-left: 10%;
 	margin-right: 10%;
 }
+
 
 * *:hover {
 	background-color: yellow;
@@ -41,7 +40,7 @@ body {
 	font-size: 14pt;
 }
 
-/* added this exercise */
+
 #navigation {
 	background-color: #99E0E0;
 	float: left;
